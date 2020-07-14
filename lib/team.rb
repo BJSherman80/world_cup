@@ -1,0 +1,3 @@
+class Team
+@team = []
+end
